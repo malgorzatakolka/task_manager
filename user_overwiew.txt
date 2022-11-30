@@ -1,0 +1,34 @@
+Total number of users: 	4
+Total number of tasks: 	8
+-------------------------------
+User: 									admin
+Total number of tasks: 					5 
+Percent of tasks assigned: 				62 
+Percent of completed tasks: 			100 
+Percent of uncompleted tasks: 			0 
+Percent of uncompleted overdue tasks: 	0
+-------------------------------
+-------------------------------
+User: 									director
+Total number of tasks: 					1 
+Percent of tasks assigned: 				12 
+Percent of completed tasks: 			100 
+Percent of uncompleted tasks: 			0 
+Percent of uncompleted overdue tasks: 	0
+-------------------------------
+-------------------------------
+User: 									humanresources
+Total number of tasks: 					1 
+Percent of tasks assigned: 				12 
+Percent of completed tasks: 			100 
+Percent of uncompleted tasks: 			0 
+Percent of uncompleted overdue tasks: 	0
+-------------------------------
+-------------------------------
+User: 									peter
+Total number of tasks: 					1 
+Percent of tasks assigned: 				12 
+Percent of completed tasks: 			100 
+Percent of uncompleted tasks: 			0 
+Percent of uncompleted overdue tasks: 	0
+-------------------------------

@@ -1,0 +1,8 @@
+-----------------------------------
+Total number of tasks: 						8
+Total number of completed tasks: 			8
+Total number of uncompleted tasks: 			0
+Total number of overdue uncompleted tasks: 	0
+Percent of uncomplete tasks: 				0 
+Percent of uncomplete overdue tasks: 		0 
+-----------------------------------

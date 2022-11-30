@@ -1,0 +1,8 @@
+admin;add tasks;add tasks to all users;20-11-2022;12-11-2022;No
+admin;dfdg;dgndgenoegn;09-12-2022;12-11-2022;Yes
+admin;Create tasks;Create tasks for every user;05-12-2022;12-11-2022;No
+admin;Check task_menager;Check if task menager works properly;01-12-2022;12-11-2022;No
+director;Check;cjefiegowejgoeng;01-12-2022;12-11-2022;No
+admin;fnwefnwoe;nfiwgoegoebg;11-12-2022;12-11-2022;No
+humanresources;Hire new team;Check for people to add to new team.;01-12-2022;12-11-2022;No
+peter;fegeg;sfegegehhrherhrh;12-12-2022;12-11-2022;No
